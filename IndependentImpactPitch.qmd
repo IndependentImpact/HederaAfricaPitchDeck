@@ -1,0 +1,127 @@
+---
+title: "Independent Impact"
+author: "Christiaan Pauw & Alex Howard"
+format:
+  revealjs:
+    theme: sky # Options include: beige, blood, dark, default, dracula, league, moon, night, serif, simple, sky, solarized
+---
+
+## Problem / Opportunity
+
+* Africa has a rapidly growing population with a significant portion of young people. 
+
+* Africa has many economic, social and ecological challenges.
+
+*  **The people are not the problem, they are the solution!**
+
+* Emerging technology like the Hedera network provides opportunity to empower and mobilise this massive human capital for beneficial action on large scale. 
+
+## Independent Impact
+
+Independent Impact is developing a radically open platform for reporting, quantifying, and verifying human impact with transparency, community oversight, and verifiable technology.
+
+## 
+
+The platform is designed with solid philosophical, conceptual and technical foundations evolve and sustain in the long term:
+
+## Philosophy 
+
+### **Open but meritocratic**
+
+Participation is open to individual and legal entities as implementers, validators, verifiers, and methodology developers. Reputation, earned through quality contributions and peer evaluation, governs what actions each participant can take.
+
+* Visible reputation for creators and reviewers 
+* Peer evaluation at every stage 
+* Incentives for continual quality improvements 
+
+## Philosophy 
+
+### **Transparent, not prescriptive**
+
+Independent Impact is designed so users can clearly interpret every quantified outcome while choosing the metrics, assurance levels, and estimation approaches that meet their needs.
+
+* Flexible impact metrics 
+* Clear disclosure of methodologies 
+* User-driven assurance requirements
+
+## Philosophy 
+
+### **Immutable yet accessible**
+
+Proven distributed technologies protect artefacts and transactions while making every action auditable. Users can interrogate projects, credentials, and impact claims in depth.
+
+* Immutable artefact storage 
+* Fast, fair and immutable event ordering
+* Queryable history of actions, controls and artefacts
+
+<!--
+**Radically open** means that anyone can join and participate and that participation can take place at many levels. This must include:
+
+ - unemployed youth in a village 
+ - entrepreneurs 
+ - small and large NGOs 
+ - governments 
+ - corporations 
+ 
+**Radically open** means there are no mediators for participation, but that *what* can be done depends on the reputation gained through quality participation  
+
+### Transparency and Reputation
+
+**Transparency** builds trust when all events are fairly ordered, visible and discoverable
+
+Everything has **reputation** and every action has consequences. This mean the system evolves towards better quality.  -->
+
+## Conceptual Framework
+
+Long terms sustainability flows from an elegant but comprehensive conceptual framework
+
+### Core ontology
+
+Independent Impact is built on a fundamental ontology: **Anthropogenic Impact Accounting Ontology (AIAO)**.
+
+\n\n
+The AIAO and its related ontologies provide a comprehensive framework for defining and quantifying human impact on the environment and society. 
+
+___ 
+
+The core Independent Impact team was instrumental in developing the AIAO and related ontologies.
+
+[AIAO](https://w3id.org/aiao) 
+
+[Impact Ontology](https://w3id.org/impactont) 
+
+[Claim Ontology](https://w3id.org/claimont) 
+
+[Information Comminication Ontology](https://w3id.org/infocomm)
+
+
+## Conceptual Framework
+
+### Everything is semantic
+
+Discoverablity and interoperability are built in from the start by using semantic web standards. 
+
+<!-- RDF, OWL, SHACL, and SPARQL. -->
+
+## Technology
+
+### Long terms sustainability flows from an elegant and efficient technology architecture
+
+## Product
+
+##  Market Size
+
+## Target Customer
+
+### Traditional tokenised outcomes
+
+* Carbon credits
+
+
+
+
+## Value Proposition and Ask.
+
+
+## Status and Roadmap
+
