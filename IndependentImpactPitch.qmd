@@ -239,7 +239,7 @@ Trust and transparency for different user:
 :::{.smallest-list}
 * Reputation system
 * Methodology registry
-* First mile survey sollution
+* First mile survey solution
 
 :::
 
