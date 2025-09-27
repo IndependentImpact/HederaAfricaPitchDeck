@@ -4,6 +4,7 @@ author: "Christiaan Pauw & Alex Howard"
 format:
   revealjs:
     theme: sky # Options include: beige, blood, dark, default, dracula, league, moon, night, serif, simple, sky, solarized
+    css: custom.scss
 ---
 
 ## Problem / Opportunity
@@ -14,39 +15,83 @@ format:
 
 *  **The people are not the problem, they are the solution!**
 
-* Emerging technology like the Hedera network provides opportunity to empower and mobilise this massive human capital for beneficial action on large scale. 
+* Emerging technology like the Hedera network provides opportunity to empower and mobilise this massive human capital for beneficial action on a large scale. 
 
-## Independent Impact
+## Independent Impact  {style="text-align: center;"}
 
-Independent Impact is developing a radically open platform for reporting, quantifying, and verifying human impact with transparency, community oversight, and verifiable technology.
+:::{style="display: flex; justify-content: center; align-items: center; text-align: center; height: 100%; padding: 0 15%;  font-size: 1.2em;  max-width: 100%;  margin: auto;"}
 
-## 
 
-The platform is designed with solid philosophical, conceptual and technical foundations evolve and sustain in the long term:
+Independent Impact is developing an open platform for reporting, quantifying, verifying and tokenising human impact in a trustworthy way.
+:::
 
-## Philosophy 
+___ 
 
-### **Open but meritocratic**
+### Built for the long term
 
-Participation is open to individual and legal entities as implementers, validators, verifiers, and methodology developers. Reputation, earned through quality contributions and peer evaluation, governs what actions each participant can take.
 
-* Visible reputation for creators and reviewers 
+The platform is designed with solid philosophical, conceptual and technical foundations to evolve and sustain in the long term
+
+* A new paradigm for Impact Accounting suited to Africa's needs 
+* Elegant conceptual framework 
+* Right technology for the job
+
+___
+
+### A new Impact Accounting paradigm
+
+Independent Impact represents a new way of looking at Impact Accounting that is:
+
+* Open but meritocratic 
+* Transparent, not prescriptive 
+* Immutable yet accessible
+
+
+
+
+___
+
+### A new Impact Accounting paradigm
+
+#### Open but meritocratic
+
+:::{style="display:  font-size: 0.65em;  max-width: 100%;  margin: auto;"}
+
+**Participation is open** to individual and legal entities as implementers, validators, verifiers, and methodology developers
+
+**Reputation is earned** through quality contributions and peer evaluation
+
+**Reputation governs** the impact of a participant's actions 
+:::
+
+___
+
+Independent Impact is:
+
+* Geared to a bottom-up approach 
+* No limits to starting participation 
+* Impact and permissions graded by reputation 
+* Reputation for all agents and controls (e.g. methods) 
 * Peer evaluation at every stage 
 * Incentives for continual quality improvements 
 
-## Philosophy 
+___
 
-### **Transparent, not prescriptive**
+### A new Impact Accounting paradigm
+
+#### Transparent, not prescriptive
 
 Independent Impact is designed so users can clearly interpret every quantified outcome while choosing the metrics, assurance levels, and estimation approaches that meet their needs.
 
-* Flexible impact metrics 
+* Composable impact metrics 
 * Clear disclosure of methodologies 
-* User-driven assurance requirements
+* Semantic representation of all artefacts makes comparison easy
 
-## Philosophy 
+___
 
-### **Immutable yet accessible**
+### A new Impact Accounting paradigm
+
+#### Immutable yet accessible
 
 Proven distributed technologies protect artefacts and transactions while making every action auditable. Users can interrogate projects, credentials, and impact claims in depth.
 
@@ -73,49 +118,102 @@ Everything has **reputation** and every action has consequences. This mean the s
 
 ## Conceptual Framework
 
-Long terms sustainability flows from an elegant but comprehensive conceptual framework
+Long-term sustainability flows from an elegant but comprehensive conceptual framework
+
+* Based on a core ontology
+* Everything is semantic 
+* Everything is reviewable
+* Everything has reputation
+* A methodology is a function
+
+
+<!--
+3. Impact and reward on any scale (individual to national)
+4. Ground truthing and verification at any level (like citizen science) -->
+
+___ 
 
 ### Core ontology
 
 Independent Impact is built on a fundamental ontology: **Anthropogenic Impact Accounting Ontology (AIAO)**.
 
-\n\n
-The AIAO and its related ontologies provide a comprehensive framework for defining and quantifying human impact on the environment and society. 
+[AIAO](https://w3id.org/aiao)  and its related ontologies provide a comprehensive framework for defining and quantifying human impact on the environment and society. 
 
 ___ 
 
-The core Independent Impact team was instrumental in developing the AIAO and related ontologies.
-
-[AIAO](https://w3id.org/aiao) 
+The core Independent Impact team was instrumental in developing AIAO and its three related ontologies:
 
 [Impact Ontology](https://w3id.org/impactont) 
 
 [Claim Ontology](https://w3id.org/claimont) 
 
-[Information Comminication Ontology](https://w3id.org/infocomm)
+[Information Communication Ontology](https://w3id.org/infocomm)
 
 
 ## Conceptual Framework
 
 ### Everything is semantic
 
-Discoverablity and interoperability are built in from the start by using semantic web standards. 
+Discoverablity and interoperability are built in from the start by adhering to W3C Semantic Web Standards. 
 
-<!-- RDF, OWL, SHACL, and SPARQL. -->
+### Everything has reputation
+
+People, organisations and methodologies have reputation that is earned through quality contributions and peer evaluation.
+
+### A methodology is a function
+
+A methodology is a function that takes inputs and produces a quantum on the metric being measured.
 
 ## Technology
+:::{style="font-size: 0.9em; line-height: 1.2;max-width: 100%;  margin: auto;
+"}
 
-### Long terms sustainability flows from an elegant and efficient technology architecture
+Long-term sustainability flows from an elegant and efficient technology stack and architecture
 
-## Product
+* **Hedera Consensus Service** for event journaling 
+* **W3C Decentralised Identifiers** (DID) for identification 
+* **W3C Verifiable Credentials** for credential issuance and verification 
+* **IPFS** for immutable distributed document storage 
+* **Jellyfish** for verifiable compute 
+* **Fluree** as a cryptographically secured, immutable, time-travelable semantic database 
+* **Hedera Token Service** for tokenisation of verified impacts 
+
+:::
+
+## What we offer
+:::{style="font-size: 0.9em; line-height: 1.2;max-width: 100%;  margin: auto;
+"}
+
+Trust and transparency for different user:
+
+* **Individuals and communities**: Everyone can act as sponsor, implementer or fact checker / validator / verifier
+* **Implementers**: tools to quantify impacts and obtain verification of their impacts
+* **Validators /Verifiers**: tools to validate and verify reported impacts
+* **Sponsors**: tools to set standards and targets and reward verified impacts
+* **Buyers**: tools to discover, evaluate and purchase verified impacts
+
+:::
 
 ##  Market Size
-
-## Target Customer
 
 ### Traditional tokenised outcomes
 
 * Carbon credits
+* Water benefit certificates
+
+### Traditional development aid / relief
+
+* Pay-for-success model
+
+### Education 
+
+* Learning tokens
+
+### Community initiatives
+
+* Set local goals
+* Mobilise local action
+
 
 
 
