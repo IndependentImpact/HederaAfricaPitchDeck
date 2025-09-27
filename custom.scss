@@ -19,3 +19,112 @@
 .reveal h3 {
   font-size: 1.5em; /* Example: Reduce H3 size */
 }
+
+/* This targets the <ul> element inside the .smaller-list div */
+.smaller-list ul {
+  font-size: 0.9em;
+  line-height: 1.2;
+  padding-left: 20px;
+  margin-top: 10px;
+}
+
+/* This targets the text directly inside the .smaller-list div */
+.smaller-list p {
+    font-size: 1em;
+    line-height: 1.2;
+}
+
+/* This targets the <ul> element inside the .smaller-list div */
+.smallest-list ul {
+  font-size: 0.8em;
+  line-height: 1;
+  padding-left: 18px;
+  margin-top: 8px;
+}
+
+/* This targets the text directly inside the .smaller-list div */
+.smallest-list p {
+    font-size: 0.9em;
+    line-height: 1;
+}
+
+/* Define the colors for your custom list items */
+$color-done: #28a745;   /* Green */
+$color-process: #fd7e14; /* Orange */
+$color-planned: #6f42c1; /* Purple */
+
+/* Apply the class to the specific list items you want to style */
+
+/* DONE: Green Checkmark */
+.done {
+  &::marker {
+    content: "✅";
+    color: $color-done;
+    font-size: 1.2em;
+  }
+}
+
+/* IN PROCESS: Orange No Entry Sign */
+.in-process {
+  &::marker {
+    content: "🚧";
+    color: $color-process;
+    font-size: 1.2em;
+  }
+}
+
+/* PLANNED: Purple Binoculars */
+.planned {
+  &::marker {
+    content: "🔭";
+    color: $color-planned;
+    font-size: 1.2em;
+  }
+}
+
+/* Define a class to change the bullet style */
+.checkmark-list li::marker {
+  /* Replace the default bullet with the checkmark emoji */
+  content: "✅ ";
+
+  /* Optionally set a specific color for the marker if needed,
+     but the emoji's color is usually fixed/system-defined.
+     You can try setting a color for the surrounding text if the emoji
+     itself doesn't change color. */
+  /* color: #28a745; */
+
+  /* Make the emoji slightly larger */
+  font-size: 0.75em;
+}
+
+/* Define colors (optional, but good practice) */
+$color-green: #28a745;
+$color-orange: #fd7e14;
+$color-purple: #6f42c1;
+
+/* Styles for DONE (Green Checkmark) */
+.done-list li::marker {
+  content: "✅ ";
+  color: $color-green; /* Color may not apply to emoji graphic */
+  font-size: 1.2em;
+}
+
+/* Styles for IN PROCESS (Orange No Entry Sign) */
+.process-list li::marker {
+  content: "🚧 ";
+  color: $color-orange; /* Color may not apply to emoji graphic */
+  font-size: 1.2em;
+}
+
+/* Styles for PLANNED (Purple Binoculars) */
+.planned-list li::marker {
+  content: "🔭 ";
+  color: $color-purple; /* Color may not apply to emoji graphic */
+  font-size: 1.2em;
+}
+
+/* Option to make the overall list font smaller */
+.small-text-list {
+    font-size: 0.85em; /* Adjust this value to make the text smaller or larger */
+    line-height: 1.2;
+}

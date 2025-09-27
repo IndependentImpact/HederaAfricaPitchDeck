@@ -9,6 +9,8 @@ format:
 
 ## Problem / Opportunity
 
+::: {.smaller-list}
+
 * Africa has a rapidly growing population with a significant portion of young people. 
 
 * Africa has many economic, social and ecological challenges.
@@ -16,6 +18,8 @@ format:
 *  **The people are not the problem, they are the solution!**
 
 * Emerging technology like the Hedera network provides opportunity to empower and mobilise this massive human capital for beneficial action on a large scale. 
+
+:::
 
 ## Independent Impact  {style="text-align: center;"}
 
@@ -27,7 +31,7 @@ Independent Impact is developing an open platform for reporting, quantifying, ve
 
 ___ 
 
-### Built for the long term
+### Built for the long term {style="text-align: center;"}
 
 
 The platform is designed with solid philosophical, conceptual and technical foundations to evolve and sustain in the long term
@@ -38,7 +42,7 @@ The platform is designed with solid philosophical, conceptual and technical foun
 
 ___
 
-### A new Impact Accounting paradigm
+### A new Impact Accounting paradigm {style="text-align: center;"}
 
 Independent Impact represents a new way of looking at Impact Accounting that is:
 
@@ -46,12 +50,9 @@ Independent Impact represents a new way of looking at Impact Accounting that is:
 * Transparent, not prescriptive 
 * Immutable yet accessible
 
-
-
-
 ___
 
-### A new Impact Accounting paradigm
+### A new Impact Accounting paradigm {style="text-align: center;"}
 
 #### Open but meritocratic
 
@@ -77,7 +78,7 @@ Independent Impact is:
 
 ___
 
-### A new Impact Accounting paradigm
+### A new Impact Accounting paradigm {style="text-align: center;"}
 
 #### Transparent, not prescriptive
 
@@ -89,7 +90,7 @@ Independent Impact is designed so users can clearly interpret every quantified o
 
 ___
 
-### A new Impact Accounting paradigm
+### A new Impact Accounting paradigm {style="text-align: center;"}
 
 #### Immutable yet accessible
 
@@ -99,24 +100,7 @@ Proven distributed technologies protect artefacts and transactions while making 
 * Fast, fair and immutable event ordering
 * Queryable history of actions, controls and artefacts
 
-<!--
-**Radically open** means that anyone can join and participate and that participation can take place at many levels. This must include:
-
- - unemployed youth in a village 
- - entrepreneurs 
- - small and large NGOs 
- - governments 
- - corporations 
- 
-**Radically open** means there are no mediators for participation, but that *what* can be done depends on the reputation gained through quality participation  
-
-### Transparency and Reputation
-
-**Transparency** builds trust when all events are fairly ordered, visible and discoverable
-
-Everything has **reputation** and every action has consequences. This mean the system evolves towards better quality.  -->
-
-## Conceptual Framework
+## Conceptual Framework 
 
 Long-term sustainability flows from an elegant but comprehensive conceptual framework
 
@@ -132,6 +116,8 @@ Long-term sustainability flows from an elegant but comprehensive conceptual fram
 4. Ground truthing and verification at any level (like citizen science) -->
 
 ___ 
+
+## Conceptual Framework
 
 ### Core ontology
 
@@ -164,10 +150,9 @@ People, organisations and methodologies have reputation that is earned through q
 
 A methodology is a function that takes inputs and produces a quantum on the metric being measured.
 
-## Technology
-:::{style="font-size: 0.9em; line-height: 1.2;max-width: 100%;  margin: auto;
-"}
+## Technology {style="text-align: center;"}
 
+::: {.smaller-list}
 Long-term sustainability flows from an elegant and efficient technology stack and architecture
 
 * **Hedera Consensus Service** for event journaling 
@@ -181,10 +166,10 @@ Long-term sustainability flows from an elegant and efficient technology stack an
 :::
 
 ## What we offer
-:::{style="font-size: 0.9em; line-height: 1.2;max-width: 100%;  margin: auto;
-"}
 
 Trust and transparency for different user:
+
+::: {.smaller-list}
 
 * **Individuals and communities**: Everyone can act as sponsor, implementer or fact checker / validator / verifier
 * **Implementers**: tools to quantify impacts and obtain verification of their impacts
@@ -196,30 +181,112 @@ Trust and transparency for different user:
 
 ##  Market Size
 
-### Traditional tokenised outcomes
+#### Traditional tokenised impacts
 
+:::{.smallest-list}
 * Carbon credits
-* Water benefit certificates
+* Water benefit certificates, etc.
 
-### Traditional development aid / relief
+:::
 
-* Pay-for-success model
+#### Traditional development aid / relief
 
-### Education 
+:::{.smallest-list}
+* Achieve aims through a *Pay-for-Success* model
 
+:::
+
+#### Education 
+
+:::{.smallest-list}
 * Learning tokens
 
-### Community initiatives
+:::
+#### Community initiatives
 
+:::{.smallest-list}
 * Set local goals
 * Mobilise local action
 
-
-
-
-
-## Value Proposition and Ask.
-
+:::
 
 ## Status and Roadmap
 
+::: columns
+
+::: {.column width="50%"}
+
+#### Done ✅ 
+
+:::{.smallest-list}
+* Developer portal launched 
+* User registration: Project implementer, validator, verifier
+* Project registration and PDD development
+* PDD validation 
+* Monitoring report submission
+* Monitoring report verification
+* Certificate issuance 
+* Migration to Fluree back-end
+
+:::
+
+:::
+
+::: {.column width="50%"}
+
+#### In Process 🚧
+
+:::{.smallest-list}
+* Reputation system
+* Methodology registry
+* First mile survey sollution
+
+:::
+
+:::
+
+:::
+
+___
+
+#### Planned 🔭
+
+* Wallet integration
+* UI migration to Golang back-end
+* Learning tokens integration and pilot project
+* Indicator portal
+* Methodology portal
+
+
+
+## Why we believe in Independent Impact
+
+:::{.smaller-list}
+
+* It's inspiring vision gives rise to a new paradigm in impact accounting with is suited to Africa's potential 
+
+* It is built on an elegant and fruitful conceptual framework that will enable the development of a rich ecosystem 
+
+* It uses the best technology for the job (HCS, IPFS, Fluree and W3C standards) 
+
+* Nova Institute is driving the development and implementation for our own projects 
+
+* Collaborators who have proven long-term commitment (LFDT Learning Tokens)
+
+:::
+<!--
+**Radically open** means that anyone can join and participate and that participation can take place at many levels. This must include:
+
+ - unemployed youth in a village 
+ - entrepreneurs 
+ - small and large NGOs 
+ - governments 
+ - corporations 
+ 
+**Radically open** means there are no mediators for participation, but that *what* can be done depends on the reputation gained through quality participation  
+
+### Transparency and Reputation
+
+**Transparency** builds trust when all events are fairly ordered, visible and discoverable
+
+Everything has **reputation** and every action has consequences. This mean the system evolves towards better quality.  -->
